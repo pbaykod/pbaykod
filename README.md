@@ -1,7 +1,4 @@
-<!-- Header banner -->
-<p align="center">
 
-</p>
 
 <p align="center">
   <a href="https://pbaykod.com">
@@ -15,7 +12,7 @@
   <a href="https://www.linkedin.com/in/petar-baykov-76ba62ab/"><img src="https://img.shields.io/badge/LinkedIn-Petar%20Baykov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/pbaykod"><img src="https://img.shields.io/badge/GitHub-pbaykod-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
----
+
 
 ## 🚀 About Me
 
