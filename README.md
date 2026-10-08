@@ -1,16 +1,139 @@
-## Hi there 👋
+<!-- Header banner -->
+<p align="center">
 
-<!--
-**petarbaykov/petarbaykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://pbaykod.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=C2410C&center=true&vCenter=true&width=520&lines=Front+end+%E2%80%A2+Back+end+%E2%80%A2+Cloud+%E2%80%A2+APIs;10%2B+years+building+for+the+web;Shipped+to+1M%2B+users;AI+%26+automation+around+real+products" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://pbaykod.com"><img src="https://img.shields.io/badge/Website-pbaykod.com-1F1B16?style=for-the-badge&logo=googlechrome&logoColor=F6F0E6" alt="Website" /></a>
+  <a href="mailto:hello@pbaykod.com"><img src="https://img.shields.io/badge/Email-hello%40pbaykod.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/petar-baykov-76ba62ab/"><img src="https://img.shields.io/badge/LinkedIn-Petar%20Baykov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pbaykod"><img src="https://img.shields.io/badge/GitHub-pbaykod-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 Who am I?
+
+📍 **Software Engineer** based in **Kazanlak, Bulgaria**
+
+💻 **10+ years** working across the whole stack: front end, back end, cloud infrastructure and APIs, and the AI and automation around them.
+
+🌍 Worked on a various edtech platforms serving **thousands of users**, business systems, mobile apps and browser extensions in production.
+
+🌱 Currently focused on **AI-powered tools, coding and automation** 
+
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pbaykod&show_icons=true&hide_border=true&bg_color=1F1B16&title_color=C2410C&icon_color=C2410C&text_color=F6F0E6&rank_icon=github" alt="GitHub stats" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 What I Work On
+
+| | Area | What it looks like |
+|:-:|---|---|
+| 🌐 | **Large-scale platforms** | Products with over a million users, a secure back end and high-availability cloud infrastructure |
+| 🏪 | **Business & retail systems** | Dashboards, admin panels and process automation for retail, franchise and manufacturing businesses |
+| 🎓 | **EdTech & interactive learning** | Learning platforms for kids and adults, with in-browser coding tools and containerised environments behind them |
+| 🤖 | **AI & automation** | AI tutors and feedback in learning products, an assistant that shows you where to click, workflow automation |
+
+---
+
+## ⚡ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,wordpress" alt="Frontend" />
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Backend" />
+</details>
+
+<details open>
+<summary><b>📱 Mobile & Desktop</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=java,androidstudio,electron" alt="Mobile & Desktop" />
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=docker,gcp,github,githubactions,linux" alt="Cloud & DevOps" />
+</details>
+
+<details open>
+<summary><b>🤖 AI & Automation</b></summary>
+<br />
+LLM integrations • AI tutors & feedback • Desktop AI assistants • Process automation • REST APIs
+</details>
+
+---
+
+
+
+---
+
+## 🏅 Highlights
+
+- 🧱 Completed **Season 1 of [Hack.bg Blockchain Academy](https://github.com/pbaykod/blockchain-projects)**
+- 🔐 Contributor to **[Superhero Wallet](https://github.com/superhero-com/superhero-wallet)** — multi-chain wallet for web3 and DeFi
+- 🧊 GitHub **Arctic Code Vault Contributor**
+- 🦈 **Pull Shark** ×4 • 🤝 **Pair Extraordinaire** ×3
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pbaykod&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pbaykod&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pbaykod&theme=tokyonight&hide_border=true&background=1F1B16&ring=C2410C&fire=C2410C&currStreakLabel=C2410C" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pbaykod&bg_color=1F1B16&color=F6F0E6&line=C2410C&point=F6F0E6&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- Snake: generated by .github/workflows/snake.yml into the "output" branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pbaykod/pbaykod/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/pbaykod/pbaykod/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  </picture>
+</p>
+
+---
+
+## 📫 Say Hello
+
+<p align="center">
+  Reach me at <a href="mailto:hello@pbaykod.com"><b>hello@pbaykod.com</b></a> or through <a href="https://pbaykod.com"><b>pbaykod.com</b></a>.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,100:1F1B16&height=100&section=footer" alt="Footer" />
+</p>
