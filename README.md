@@ -32,11 +32,7 @@
 
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pbaykod&show_icons=true&hide_border=true&bg_color=1F1B16&title_color=C2410C&icon_color=C2410C&text_color=F6F0E6&rank_icon=github" alt="GitHub stats" />
-
-</td>
 </tr>
 </table>
 
